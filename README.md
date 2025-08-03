@@ -34,7 +34,7 @@
 
 ## ✨ Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" />&nbsp;&nbsp;&nbsp;
@@ -43,6 +43,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" />&nbsp;&nbsp;&nbsp;
@@ -51,6 +52,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="canva" width="40" />
 </p>
+
 
 
 ---
