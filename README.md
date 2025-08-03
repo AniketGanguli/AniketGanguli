@@ -99,11 +99,7 @@ Data is visualized in a clean and interactive format.</i><br>
 ---
 
 ## ✨ Quote That Inspires Me
-> “Without data, you're just another person with an opinion.”  
+> “In God we trust. All others must bring data.”  
 > — *W. Edwards Deming*
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visits-👁‍🗨%20Welcome-blue" alt="visits badge" />
-</p>
