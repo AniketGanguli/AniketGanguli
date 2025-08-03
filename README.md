@@ -19,6 +19,41 @@
 
 ---
 
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://facebook.com/ganguli.aniket" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="34"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ganguli.aniket/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="34"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aniket-ganguli-aa1904271/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="34"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/AniketGanguli" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="34"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/aniketgaickz/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="34"/></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+---
+
+## ✨ Tech Stack
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="canva" width="40" />
+</p>
+
+
+---
 ## 🚀 Featured Excel Projects & Dashboards
 
 <table>
@@ -47,38 +82,6 @@ Data is visualized in a clean and interactive format.</i><br>
     </td>
   </tr>
 </table>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://facebook.com/ganguli.aniket" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="34"/></a>
-  <a href="https://www.instagram.com/ganguli.aniket/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="34"/></a>
-  <a href="https://www.linkedin.com/in/aniket-ganguli-aa1904271/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="34"/></a>
-  <a href="https://x.com/AniketGanguli" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="34"/></a>
-  <a href="https://www.geeksforgeeks.org/user/aniketgaickz/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="34"/></a>
-</p>
-
----
-
-## ✨ Tech Stack
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="sql" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="canva" width="40"/>
-</p>
 
 ---
 
