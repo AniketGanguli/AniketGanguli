@@ -23,7 +23,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://facebook.com/ganguli.aniket" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="34"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/aniket.ganguli.50/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="34"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ganguli.aniket/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="34"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aniket-ganguli-aa1904271/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="34"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/AniketGanguli" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="34"/></a>&nbsp;&nbsp;&nbsp;
