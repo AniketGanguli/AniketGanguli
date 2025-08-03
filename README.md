@@ -38,9 +38,11 @@ Data is visualized in a clean and interactive format.</i><br>
       <a href="https://github.com/AniketGanguli/excel-employee-attrition-dashboard">[Project Repo]</a>
     </td>
     <td valign="top" width="350">
-      <img src="https://raw.githubusercontent.com/AniketGanguli/yourrepo/main/assets/customer_feedback_dashboard.png" width="320" alt="Customer Feedback Dashboard"/><br>
-      <b>Customer Feedback Insights Dashboard</b><br>
-      <i>Interactive dashboard visualizing survey responses and satisfaction scores. Provides insights into NPS, top drivers of loyalty, and open-ended feedback word clouds.</i><br>
+      <img src="https://github.com/AniketGanguli/Superstore-Sales-Insights-Dashboard/blob/main/Dashboard.png" width="320" alt="Customer Feedback Dashboard"/><br>
+      <b>Superstore Sales Dashboard in Excel</b><br>
+      <i>This Excel project presents a comprehensive Sales Analysis Dashboard built using Superstore data. It includes thorough data cleaning, feature engineering, visual analytics using PivotTables and charts, interactive slicers, and KPI tracking to derive key business insights.
+
+</i><br>
       <a href="https://github.com/AniketGanguli/Customer-Feedback-Excel-Dashboard">[Project Repo]</a>
     </td>
   </tr>
