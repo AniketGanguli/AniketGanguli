@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/wr0wBRjm/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400"/>
+  <img src="https://i.ibb.co/SXqHYf4P/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
 </p>
 
 <h1 align="center">Hi, I'm Aniket Ganguli 👋</h1>
